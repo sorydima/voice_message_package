@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   flutter_cache_manager: ^3.3.1
   just_audio: ^0.9.37
-  syncfusion_flutter_sliders: ^25.1.41 
+  syncfusion_flutter_sliders: ">=25.1.41 <31.0.0" 
 
 dev_dependencies:
   flutter_test:
